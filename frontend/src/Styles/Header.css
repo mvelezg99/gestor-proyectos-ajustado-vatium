@@ -1,0 +1,29 @@
+.header{
+  
+}
+
+.header-title{
+  margin-top: 13px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 24px;
+  color: #343433;
+  user-select: none;
+}
+
+.color-nav {
+  background-color: #ffd900;
+}
+
+.style-font {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link:active {
+  color: #343433;
+}
+
+.nav-link:visited {
+  color: #343433;
+}

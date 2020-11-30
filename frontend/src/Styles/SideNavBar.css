@@ -1,0 +1,58 @@
+.sidenav {
+  border-style: solid;
+  border-color: #343433;
+  border-width: 2px;
+  border-left-width: 5px;
+  min-height: 50vh;
+  width: 30vh;
+  position: sticky;
+  top: 0;
+}
+
+.side-font {
+  font-family: 'Franklin Gothic';
+}
+
+.menu-title {
+  text-align: center;
+}
+
+.menu-section {
+  font-size: 17px;
+  font-weight: bold;
+  
+}
+
+.btn-logout-button {
+  background-color: transparent;
+  color: #212529;
+}
+
+.btn-logout-button:hover {
+  color: #dc3545;
+  font-weight: bold;
+}
+
+.side-link {
+  color: #212529;
+}
+
+.side-link:hover {
+  color: #212529;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.current-link {
+  background-color: #f8d900;
+  color: #212529;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+.current-link:hover {
+  background-color: #f8d900;
+  color: #212529;
+  font-weight: bold;
+  text-decoration: none;
+}
